@@ -1,5 +1,5 @@
 # algo-analyze
-Repo dedicated to algorithm analyzis course
+Repo dedicated to algorithm analysis course
 
 ===============================================
 
